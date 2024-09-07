@@ -1,0 +1,1 @@
+This program reads whatever text that you have in your clipboard and extracs only the mail and numbers from the text you have copied and it also copies the extracted number and email to your clipboard
